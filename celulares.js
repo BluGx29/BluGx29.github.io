@@ -687,6 +687,33 @@ descripcion:`
 
 marca:"Samsung",
 
+modelo:"Galaxy A10s (A107M)",
+
+procesador:"MediaTek Helio P22",
+
+Binario:"Hasta&nbsp;6",
+
+Version:"Android 11",
+
+descripcion:`
+
+<h3>Procesos</h3>
+
+<ul>
+
+<li>&#10003; Cuenta google (Frp Bypass)</li>
+
+</ul>
+
+
+`
+
+},
+
+{
+
+marca:"Samsung",
+
 modelo:"Galaxy A11 (A115F)",
 
 procesador:"Snapdragon 450",
