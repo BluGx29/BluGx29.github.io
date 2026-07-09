@@ -1,5 +1,5 @@
 const celulares=[
-
+  
 {
 
 marca:"Tecno",
@@ -667,6 +667,33 @@ procesador:"Snapdragon 450",
 Binario:"Hasta&nbsp;5",
 
 Version:"Android 12",
+
+descripcion:`
+
+<h3>Procesos</h3>
+
+<ul>
+
+<li>&#10003; Cuenta google (Frp Bypass)</li>
+
+</ul>
+
+
+`
+
+},
+
+{
+
+marca:"Samsung",
+
+modelo:"Galaxy A20 (A205G)",
+
+procesador:"Exynos 7884",
+
+Binario:"B",
+
+Version:"Android 11",
 
 descripcion:`
 
