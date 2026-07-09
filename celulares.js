@@ -691,7 +691,7 @@ modelo:"Galaxy A20 (A205G)",
 
 procesador:"Exynos 7884",
 
-Binario:"B",
+Binario:"Hasta B",
 
 Version:"Android 11",
 
