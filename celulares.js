@@ -1,5 +1,32 @@
 const celulares=[
-  
+
+{
+
+marca:"Samsung",
+
+modelo:"Galaxy A23 FE (S711B)",
+
+procesador:"Exynos 2200",
+
+Binario:"Hasta F",
+
+Version:"Android 16",
+
+descripcion:`
+
+<h3>Procesos</h3>
+
+<ul>
+
+<li>&#10003; Cuenta google (Frp Bypass)</li>
+
+</ul>
+
+
+`
+
+},
+
 {
 
 marca:"Tecno",
